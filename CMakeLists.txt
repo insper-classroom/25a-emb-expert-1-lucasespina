@@ -31,4 +31,4 @@ endif()
 
 # Codes subdir:
 add_subdirectory(main)
-
+add_subdirectory(mpu6050)
