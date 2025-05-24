@@ -1,10 +1,10 @@
 /*
  * LED blink with FreeRTOS + MPU6050
  */
-// #include <FreeRTOS.h>
-// #include <task.h>
-// #include <semphr.h>
-// #include <queue.h>
+#include <FreeRTOS.h>
+#include <task.h>
+#include <semphr.h>
+#include <queue.h>
 
 #include "pico/stdlib.h"
 #include <stdio.h>
