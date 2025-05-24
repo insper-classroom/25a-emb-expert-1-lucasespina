@@ -1,7 +1,7 @@
 /*
  * LED blink with FreeRTOS + MPU6050
  */
-#include <FreeRTOS.h>
+// #include <FreeRTOS.h>
 #include <task.h>
 #include <semphr.h>
 #include <queue.h>
